@@ -28,7 +28,7 @@ After running both the chain-ladder and BF method, we graphed the IBNR of the tw
 ## Sensitivity Analysis
 Our final test in this project was a comparison between using the volume-weighted CDFs and simple average CDFs. After running the simple average CDF methods, we found that there was only a 0.24% difference in total IBNR between the two methods. This shows that our reserve estimates aren't highly sensitive to our volume-weighted CDF assumption.
 
-<img width="1026" height="359" alt="image" src="https://github.com/user-attachments/assets/bcd5c16e-cb62-4499-a030-6b7d844dff3b" />
+<img width="1024" height="357" alt="image" src="https://github.com/user-attachments/assets/7180ff33-4f46-4036-89dd-5ebbb7151b96" />
 
 ## Limitations
 There were a few limitations in this project. To start, this project is only for a single company compared to the entire private passenger auto industry. This project also does not consider case reserve development separately from paid case development. Finally, our ELR was derived from our data rather than externally validated. In real-world scenarios, ELRs are subject to change year-over-year. Overall, the close alignment between the chain-ladder and BF estimates, as well as the low sensitivity to factor selection supports our figures in the $144M-$146M reserve range as a reasonable estimation.
