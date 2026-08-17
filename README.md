@@ -18,7 +18,7 @@ To start, we built a 10x10 claims development triangle and calculated the age-to
 ## Bornhuetter-Ferguson Methodology
 After using the Chain-Ladder method, we also computed the IBNR using the BF method. This stabilizes the estimates for less mature accident years (like 2005-2007) as these are more sensitive to noise in the chain-ladder approach. In order to use the BF method, we first needed to calculate the expected loss ratio (ELR). To obtain this, we averaged the chain-ladder-implied loss ratios from the most mature accident years which resulted in a value of 0.7466. After carrying out the BF method with our ELR, we got a result of $144.22M total indicated IBNR.
 
-<img width="1303" height="254" alt="image" src="https://github.com/user-attachments/assets/96e58079-be8e-413b-b14c-93a4b60a8049" />
+<img width="1305" height="255" alt="image" src="https://github.com/user-attachments/assets/18cc7c02-5521-4a7b-81f1-ad4549c8eff2" />
 
 ## Comparison
 After running both the chain-ladder and BF method, we graphed the IBNR of the two for each accident year. As seen in the table accompanying the graph, both methods produce closely aligned results (within 1.3% of each other) with BF showing slightly lower figures. This does appear to be consistent with the BF's expected effect on the least mature accident years.
