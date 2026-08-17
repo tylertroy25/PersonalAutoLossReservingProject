@@ -11,7 +11,7 @@ We sourced our data from the CAS-hosted NAIC Schedule P dataset. This set contai
 <img width="632" height="380" alt="image" src="https://github.com/user-attachments/assets/26dc1d64-8c6f-410c-bb77-30492421d4c2" />
 
 ## Chain Ladder Methodology
-To start, we built a 10x10 claims development triangle and calculated the age-to-age factors for each accident year. We calculated both the volume-weighted average and simple average for each age-to-age band. Then, we selected the volume-weighted average as the basis for our future calculations as this is the standard approach and reduces the influence of smaller or noisier years. After that, we computed the cumulative development factors (CDFs) and applied these to the latest diagonal to project the ultimates and IBNR. This resulted in $146.10M total indicated IBNR.
+To start, we built a 10x10 claims development triangle and calculated the age-to-age factors for each accident year (pictured above). We calculated both the volume-weighted average and simple average for each age-to-age band. Then, we selected the volume-weighted average as the basis for our future calculations as this is the standard approach and reduces the influence of smaller or noisier years. After that, we computed the cumulative development factors (CDFs) and applied these to the latest diagonal to project the ultimates and IBNR. This resulted in $146.10M total indicated IBNR.
 
 <img width="895" height="254" alt="image" src="https://github.com/user-attachments/assets/8a84c914-7ded-4d5d-a5b9-f41c99f523ef" />
 
